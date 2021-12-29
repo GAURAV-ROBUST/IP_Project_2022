@@ -202,7 +202,7 @@ class main():
         for i in range(0,len(murder_sample.index)):
             sum += murder_sample[dict1[inp3]][i]
         console.print()
-        console.print(f"Total Number of {gender} murders in 2013 =",sum,style=style2)
+        console.print(f"Total Number of {gender} murders =",sum,style=style2)
         console.print()
 
     def crime_1():
