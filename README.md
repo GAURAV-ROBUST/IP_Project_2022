@@ -1,4 +1,3 @@
-# IP_Project_2022
 # The Analyser
 by Gaurav Rayat
 ***
